@@ -56,4 +56,5 @@ PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/libomx_m4vh2
 PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/libomx_m4vh263enc_hw_sprd.so:system/lib/libomx_m4vh263enc_hw_sprd.so
 PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/hw/camera.sc8830.so:system/lib/hw/camera.sc8830.so
 PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/hw/gralloc.sc8830.so:system/lib/hw/gralloc.sc8830.so
+PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/hw/lights.sc8830.so:system/lib/hw/lights.sc8830.so
 PRODUCT_COPY_FILES +=   vendor/samsung/grandneove3g/proprietary/lib/hw/sensors.sc8830.so:system/lib/hw/sensors.sc8830.so
