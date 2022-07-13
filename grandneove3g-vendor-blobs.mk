@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/grandneove3g/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
     vendor/samsung/grandneove3g/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/grandneove3g/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
+    vendor/samsung/grandneove3g/proprietary/lib/libalgobsx.so:system/lib/libalgobsx.so \
     vendor/samsung/grandneove3g/proprietary/lib/libatchannel.so:system/lib/libatchannel.so \
     vendor/samsung/grandneove3g/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/grandneove3g/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
